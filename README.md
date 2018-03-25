@@ -1,4 +1,24 @@
-# CARADISIAC
+﻿# CARADISIAC
+
+- Run Elasticsearch
+
+- Launch the api with ```js
+cd server
+node index.js
+```
+
+- Then in the client server
+ type ```
+cd client
+npm start 
+```
+
+click on the button search.
+
+
+
+
+
 
 > Drive comfortably
 
